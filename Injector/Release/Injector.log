@@ -1,0 +1,7 @@
+﻿  Manualinjector.cpp
+D:\projetoMUAHAHAHA\Injector\Injector\Manualinjector.cpp(21,13): warning C4244: '+=': conversão de 'DWORD' para 'WORD', possível perda de dados
+  Gerando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 659 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  Injector.vcxproj -> D:\projetoMUAHAHAHA\Injector\Release\Injector.exe
